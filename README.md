@@ -1,1 +1,1 @@
-# intenship-python-
+# intenship-python-from-GymCounselor
